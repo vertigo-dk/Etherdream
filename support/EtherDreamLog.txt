@@ -1,0 +1,281 @@
+----------
+[0.003033]        == DLL Loaded ==
+[0.003324]        == DLL Init ==
+[0.003408]        Process priority class: 128
+[0.003464]        == Close ==
+[0.003816]        _: listening for DACs...
+[0.003823]        _: Exiting
+[0.003966]        == EtherDreamGetCardNum ==
+[0.004008]        Waiting 1200 milliseconds.
+[0.004272]        _: listening for DACs...
+[0.191750]        _: Found new DAC: 4.0.0.29
+[1.204111]        Found 1 DACs.
+[1.204387] 6e6bcc == Stop(0) ==
+[1.204412]        == EtherDreamGetCardNum ==
+[1.204418]        Waiting -101 milliseconds.
+[1.204422]        Found 1 DACs.
+[1.809706]        == EtherDreamGetCardNum ==
+[1.809727]        Waiting -706 milliseconds.
+[1.809732]        Found 1 DACs.
+[1.809812]        == EtherDreamGetCardNum ==
+[1.809816]        Waiting -706 milliseconds.
+[1.809819]        Found 1 DACs.
+[1.809886]        == EtherDreamGetCardNum ==
+[1.809889]        Waiting -706 milliseconds.
+[1.809892]        Found 1 DACs.
+[1.809985]        == EtherDreamGetCardNum ==
+[1.809988]        Waiting -706 milliseconds.
+[1.809991]        Found 1 DACs.
+[9.230442]        == EtherDreamGetCardNum ==
+[9.230468]        Waiting -8127 milliseconds.
+[9.230475]        Found 1 DACs.
+[9.240461] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[9.242116] 6e6bcc Connected.
+[9.242990] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[9.243000] 6e6bcc Flags: LE 0, playback 0, source 0
+[9.243005] 6e6bcc Buffer: 0 points, 0 pps, 0 total played
+[9.243656] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[9.243665] 6e6bcc Flags: LE 0, playback 0, source 0
+[9.243669] 6e6bcc Buffer: 0 points, 0 pps, 0 total played
+[9.244315] 6e6bcc DAC version: ed4-152-33b3cef
+[9.244323] 6e6bcc init: Sending prepare and stop commands...
+[9.244980] 6e6bcc init: starting worker threads...[9.245030] 6e6bcc Ready.
+[9.245034] 6e6bcc device opened
+[9.245325] 6e6bcc SetThreadPriority ret 0
+[9.245334] 6e6bcc L: Waiting...
+[9.254032] 6e6bcc L: Restarting stream.
+[9.254067] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[9.254639] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[9.255124] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[9.255694] 6e6bcc L: b 160 + 80 - 0 = 240, w 1360 om 1 st 1
+[9.256580] 6e6bcc L: b 320 + 0 - 0 = 320, w 1280 om 0 st 1
+[9.256767] 6e6bcc L: b 320 + 80 - 0 = 400, w 1200 om 1 st 1
+[9.257462] 6e6bcc L: b 480 + 0 - 0 = 480, w 1120 om 0 st 1
+[9.257807] 6e6bcc L: b 480 + 80 - 0 = 560, w 1040 om 1 st 1
+[9.258321] 6e6bcc L: b 640 + 0 - 0 = 640, w 960 om 0 st 1
+[9.258828] 6e6bcc L: b 640 + 80 - 0 = 720, w 880 om 1 st 1
+[9.279326] 6e6bcc L: Sending begin command...
+[11.141848]        == Close ==
+[11.199633]        _: Exiting
+[11.201434] 6e6bcc L: Shutting down.
+[11.201668]        == EtherDreamGetCardNum ==
+[11.201720]        Waiting 1200 milliseconds.
+[11.202050]        _: listening for DACs...
+[12.401794]        Found 1 DACs.
+[12.402081]        == EtherDreamGetCardNum ==
+[12.402088]        Waiting -11298 milliseconds.
+[12.402093]        Found 1 DACs.
+[14.719639]        == EtherDreamGetCardNum ==
+[14.719660]        Waiting -13616 milliseconds.
+[14.719666]        Found 1 DACs.
+[14.719858] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[14.730959] 6e6bcc Connected.
+[14.731219] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[14.731228] 6e6bcc Flags: LE 0, playback 0, source 0
+[14.731233] 6e6bcc Buffer: 1501 points, 0 pps, 92416 total played
+[14.731945] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[14.731959] 6e6bcc Flags: LE 0, playback 0, source 0
+[14.731971] 6e6bcc Buffer: 0 points, 0 pps, 92416 total played
+[14.732649] 6e6bcc DAC version: ed4-152-33b3cef
+[14.732658] 6e6bcc init: Sending prepare and stop commands...
+[14.733388] 6e6bcc init: starting worker threads...[14.733464] 6e6bcc Ready.
+[14.733471] 6e6bcc device opened
+[14.733803] 6e6bcc SetThreadPriority ret 0
+[14.733815] 6e6bcc L: Waiting...
+[14.734457] 6e6bcc L: Restarting stream.
+[14.734466] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[14.735039] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[14.735900] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[14.736095] 6e6bcc L: b 160 + 80 - 0 = 240, w 1360 om 1 st 1
+[14.736774] 6e6bcc L: b 320 + 0 - 0 = 320, w 1280 om 0 st 1
+[14.737098] 6e6bcc L: b 320 + 80 - 0 = 400, w 1200 om 1 st 1
+[14.754297] 6e6bcc L: b 400 + 19 - 0 = 419, w 1181 om 1 st 1
+[14.754888] 6e6bcc L: b 419 + 80 - 0 = 499, w 1101 om 1 st 1
+[14.755391] 6e6bcc L: b 499 + 80 - 0 = 579, w 1021 om 1 st 1
+[14.755746] 6e6bcc L: b 659 + 0 - 0 = 659, w 941 om 0 st 1
+[14.756395] 6e6bcc L: b 659 + 80 - 0 = 739, w 861 om 1 st 1
+[14.761467] 6e6bcc L: Sending begin command...
+[21.653001]        == EtherDreamGetCardNum ==
+[21.655730] 6e6bcc L: Shutting down.
+[21.656166]        Waiting -20552 milliseconds.
+[21.656179]        Found 1 DACs.
+[24.492129]        == EtherDreamGetCardNum ==
+[24.492154]        Waiting -23388 milliseconds.
+[24.492161]        Found 1 DACs.
+[24.492479] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[24.503992] 6e6bcc Connected.
+[24.504265] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[24.504275] 6e6bcc Flags: LE 0, playback 0, source 0
+[24.504282] 6e6bcc Buffer: 1628 points, 0 pps, 423168 total played
+[24.504997] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[24.505003] 6e6bcc Flags: LE 0, playback 0, source 0
+[24.505007] 6e6bcc Buffer: 0 points, 0 pps, 423168 total played
+[24.505669] 6e6bcc DAC version: ed4-152-33b3cef
+[24.505678] 6e6bcc init: Sending prepare and stop commands...
+[24.506361] 6e6bcc init: starting worker threads...[24.506421] 6e6bcc Ready.
+[24.506424] 6e6bcc device opened
+[24.506709] 6e6bcc SetThreadPriority ret 0
+[24.506723] 6e6bcc L: Waiting...
+[24.514191] 6e6bcc L: Restarting stream.
+[24.514208] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[24.515146] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[24.516170] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[24.517056] 6e6bcc L: b 240 + 0 - 0 = 240, w 1360 om 0 st 1
+[24.517164] 6e6bcc L: b 240 + 80 - 0 = 320, w 1280 om 1 st 1
+[24.517951] 6e6bcc L: b 400 + 0 - 0 = 400, w 1200 om 0 st 1
+[24.518160] 6e6bcc L: b 400 + 80 - 0 = 480, w 1120 om 1 st 1
+[24.518826] 6e6bcc L: b 560 + 0 - 0 = 560, w 1040 om 0 st 1
+[24.519163] 6e6bcc L: b 560 + 80 - 0 = 640, w 960 om 1 st 1
+[24.519689] 6e6bcc L: b 720 + 0 - 0 = 720, w 880 om 0 st 1
+[24.537632] 6e6bcc L: Sending begin command...
+[3844.078395]        == EtherDreamGetCardNum ==
+[3844.079187] 6e6bcc L: Shutting down.
+[3844.079615]        Waiting -3842976 milliseconds.
+[3844.079627]        Found 1 DACs.
+[3846.792036]        == EtherDreamGetCardNum ==
+[3846.792058]        Waiting -3845688 milliseconds.
+[3846.792063]        Found 1 DACs.
+[3846.792405] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[3846.802939] 6e6bcc Connected.
+[3846.803161] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[3846.803167] 6e6bcc Flags: LE 0, playback 0, source 0
+[3846.803172] 6e6bcc Buffer: 1651 points, 0 pps, 183601152 total played
+[3846.803855] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[3846.803868] 6e6bcc Flags: LE 0, playback 0, source 0
+[3846.803874] 6e6bcc Buffer: 0 points, 0 pps, 183601152 total played
+[3846.804559] 6e6bcc DAC version: ed4-152-33b3cef
+[3846.804571] 6e6bcc init: Sending prepare and stop commands...
+[3846.805254] 6e6bcc init: starting worker threads...[3846.805323] 6e6bcc Ready.
+[3846.805327] 6e6bcc device opened
+[3846.805627] 6e6bcc SetThreadPriority ret 0
+[3846.805638] 6e6bcc L: Waiting...
+[3846.811982] 6e6bcc L: Restarting stream.
+[3846.811996] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[3846.812550] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[3846.812916] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[3846.813058] 6e6bcc L: b 160 + 80 - 0 = 240, w 1360 om 1 st 1
+[3846.813812] 6e6bcc L: b 320 + 0 - 0 = 320, w 1280 om 0 st 1
+[3846.814064] 6e6bcc L: b 320 + 80 - 0 = 400, w 1200 om 1 st 1
+[3846.814685] 6e6bcc L: b 480 + 0 - 0 = 480, w 1120 om 0 st 1
+[3846.815064] 6e6bcc L: b 480 + 80 - 0 = 560, w 1040 om 1 st 1
+[3846.815544] 6e6bcc L: b 640 + 0 - 0 = 640, w 960 om 0 st 1
+[3846.816059] 6e6bcc L: b 640 + 80 - 0 = 720, w 880 om 1 st 1
+[3846.835719] 6e6bcc L: Sending begin command...
+[5507.307772]        == EtherDreamGetCardNum ==
+[5507.307950] 6e6bcc L: Shutting down.
+[5507.308345]        Waiting -5506204 milliseconds.
+[5507.308358]        Found 1 DACs.
+[5513.828832]        == Close ==
+[5513.828944]        == DLL Unloaded ==
+----------
+[0.010219]        == DLL Loaded ==
+[0.010262]        == DLL Init ==
+[0.010371]        Process priority class: 128
+[0.010408]        == Close ==
+[0.010802]        _: listening for DACs...
+[0.010811]        _: Exiting
+[0.010964]        == EtherDreamGetCardNum ==
+[0.010999]        Waiting 1200 milliseconds.
+[0.011139]        _: listening for DACs...
+[0.986578]        _: Found new DAC: 4.0.0.29
+[1.211221]        Found 1 DACs.
+[1.211335] 6e6bcc == Stop(0) ==
+[1.211353]        == EtherDreamGetCardNum ==
+[1.211359]        Waiting -101 milliseconds.
+[1.211363]        Found 1 DACs.
+[2.382587]        == EtherDreamGetCardNum ==
+[2.382609]        Waiting -1272 milliseconds.
+[2.382614]        Found 1 DACs.
+[2.382694]        == EtherDreamGetCardNum ==
+[2.382698]        Waiting -1272 milliseconds.
+[2.382700]        Found 1 DACs.
+[2.382769]        == EtherDreamGetCardNum ==
+[2.382772]        Waiting -1272 milliseconds.
+[2.382775]        Found 1 DACs.
+[2.383025]        == EtherDreamGetCardNum ==
+[2.383030]        Waiting -1272 milliseconds.
+[2.383033]        Found 1 DACs.
+[13.065388]        == Close ==
+[13.996621]        _: Exiting
+[13.997009]        == EtherDreamGetCardNum ==
+[13.997064]        Waiting 1200 milliseconds.
+[13.997431]        _: listening for DACs...
+[15.197694]        Found 1 DACs.
+[15.197945]        == EtherDreamGetCardNum ==
+[15.197953]        Waiting -14087 milliseconds.
+[15.197957]        Found 1 DACs.
+[15.244422]        == Close ==
+[15.998387]        _: Exiting
+[15.998781]        == EtherDreamGetCardNum ==
+[15.998837]        Waiting 1200 milliseconds.
+[15.999158]        _: listening for DACs...
+[17.199683]        Found 1 DACs.
+[17.199936]        == EtherDreamGetCardNum ==
+[17.199943]        Waiting -16089 milliseconds.
+[17.199947]        Found 1 DACs.
+[20.383379]        == EtherDreamGetCardNum ==
+[20.383401]        Waiting -19273 milliseconds.
+[20.383406]        Found 1 DACs.
+[20.383456] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[20.395001] 6e6bcc Connected.
+[20.395253] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[20.395261] 6e6bcc Flags: LE 0, playback 0, source 0
+[20.395266] 6e6bcc Buffer: 1620 points, 0 pps, 263234304 total played
+[20.395958] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[20.395966] 6e6bcc Flags: LE 0, playback 0, source 0
+[20.395970] 6e6bcc Buffer: 0 points, 0 pps, 263234304 total played
+[20.396635] 6e6bcc DAC version: ed4-152-33b3cef
+[20.396645] 6e6bcc init: Sending prepare and stop commands...
+[20.397312] 6e6bcc init: starting worker threads...[20.397369] 6e6bcc Ready.
+[20.397372] 6e6bcc device opened
+[20.397675] 6e6bcc SetThreadPriority ret 0
+[20.397693] 6e6bcc L: Waiting...
+[20.402163] 6e6bcc L: Restarting stream.
+[20.402178] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[20.402668] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[20.403120] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[20.403622] 6e6bcc L: b 160 + 80 - 0 = 240, w 1360 om 1 st 1
+[20.403983] 6e6bcc L: b 320 + 0 - 0 = 320, w 1280 om 0 st 1
+[20.404652] 6e6bcc L: b 320 + 80 - 0 = 400, w 1200 om 1 st 1
+[20.405540] 6e6bcc L: b 480 + 0 - 0 = 480, w 1120 om 0 st 1
+[20.406016] 6e6bcc L: b 480 + 80 - 0 = 560, w 1040 om 1 st 1
+[20.406403] 6e6bcc L: b 640 + 0 - 0 = 640, w 960 om 0 st 1
+[20.407061] 6e6bcc L: b 640 + 80 - 0 = 720, w 880 om 1 st 1
+[20.435788] 6e6bcc L: Sending begin command...
+[11138.350910]        == EtherDreamGetCardNum ==
+[11138.352710] 6e6bcc L: Shutting down.
+[11138.353117]        Waiting -11138262 milliseconds.
+[11138.353129]        Found 1 DACs.
+[11144.451224]        == EtherDreamGetCardNum ==
+[11144.451246]        Waiting -11144360 milliseconds.
+[11144.451252]        Found 1 DACs.
+[11144.451325] 6e6bcc Calling getaddrinfo: "4.0.0.29", "7765"
+[11144.462486] 6e6bcc Connected.
+[11144.462731] 6e6bcc Protocol 0 / LE 0 / playback 0 / source 0
+[11144.462740] 6e6bcc Flags: LE 0, playback 0, source 0
+[11144.462745] 6e6bcc Buffer: 1653 points, 0 pps, 796428288 total played
+[11144.463428] 6e6bcc Protocol 0 / LE 0 / playback 1 / source 0
+[11144.463441] 6e6bcc Flags: LE 0, playback 0, source 0
+[11144.463446] 6e6bcc Buffer: 0 points, 0 pps, 796428288 total played
+[11144.464103] 6e6bcc DAC version: ed4-152-33b3cef
+[11144.464115] 6e6bcc init: Sending prepare and stop commands...
+[11144.464903] 6e6bcc init: starting worker threads...[11144.464960] 6e6bcc Ready.
+[11144.464964] 6e6bcc device opened
+[11144.465246] 6e6bcc SetThreadPriority ret 0
+[11144.465259] 6e6bcc L: Waiting...
+[11144.469709] 6e6bcc L: Restarting stream.
+[11144.469734] 6e6bcc L: b 0 + 0 - 0 = 0, w 1600 om 0 st 1
+[11144.470568] 6e6bcc L: b 0 + 80 - 0 = 80, w 1520 om 1 st 1
+[11144.471441] 6e6bcc L: b 160 + 0 - 0 = 160, w 1440 om 0 st 1
+[11144.471597] 6e6bcc L: b 160 + 80 - 0 = 240, w 1360 om 1 st 1
+[11144.472301] 6e6bcc L: b 320 + 0 - 0 = 320, w 1280 om 0 st 1
+[11144.472670] 6e6bcc L: b 320 + 80 - 0 = 400, w 1200 om 1 st 1
+[11144.473159] 6e6bcc L: b 480 + 0 - 0 = 480, w 1120 om 0 st 1
+[11144.473694] 6e6bcc L: b 480 + 80 - 0 = 560, w 1040 om 1 st 1
+[11144.474530] 6e6bcc L: b 640 + 0 - 0 = 640, w 960 om 0 st 1
+[11144.474712] 6e6bcc L: b 640 + 80 - 0 = 720, w 880 om 1 st 1
+[11144.502285] 6e6bcc L: Sending begin command...
+[11150.749232] 6e6bcc L: returning to idle
+[11150.749263] 6e6bcc L: Waiting...
+[11151.916504]        == Close ==
+[11151.916602]        == DLL Unloaded ==
