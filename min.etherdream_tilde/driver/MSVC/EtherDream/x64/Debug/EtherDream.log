@@ -1,0 +1,41 @@
+﻿  conn.cpp
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\protocol.h(86,1): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '../conn.cpp')
+  C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\protocol.h(86,1):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.h(82,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../conn.cpp')
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.h(88,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../conn.cpp')
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.cpp(308,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.cpp(492,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  j4cDAC.cpp
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\protocol.h(86,1): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file '../j4cDAC.cpp')
+  C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\protocol.h(86,1):
+  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.h(30,69): warning C4190: 'EtherDreamGetIP' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+  (compiling source file '../j4cDAC.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+  see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.h(82,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../j4cDAC.cpp')
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\conn.h(88,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../j4cDAC.cpp')
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(171,23): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(174,41): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(392,1): warning C4190: 'EtherDreamGetIP' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+  see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(395,16): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(422,5): warning C4996: 'WSACancelBlockingCall': Use Winsock 2 instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating Code...
+C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\j4cDAC.cpp(1,1): error C1090: PDB API call failed, error code '5': C:\Users\meyer\Dropbox (Vertigo)\Documents\Max 8\Packages\my-min-devkit\source\projects\min.etherdream_tilde\driver\MSVC\EtherDream\x64\Debug\vc143.pdb
